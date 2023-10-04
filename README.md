@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on developing mobile application with react native that interacts with Bluetooth and printer.<br>Developing frontend with NextJs and Saas to picture my ideas into reality and let others see my point of view<br>Always get inspire by real world and others projects, like "If they can I can ", this mentality forces me to keep learning and evolving with others<br>I'm currently learning backend development with NodeJs, express, and mongoDb, it's really big and deep (That's what she .....)<br>Looking to work with others and see things with their point of view
+I'm currently working on developing mobile application with react native that interacts with Bluetooth and printer.<br>Developing frontend with NextJs and Tailwind to picture my ideas into reality and let others see my point of view<br>Always get inspire by real world and others projects, like "If they can I can ", this mentality forces me to keep learning and evolving with others<br>I'm currently learning backend development with NodeJs, express, and mongoDb, it's really big and deep (That's what she .....)<br>Looking to work with others and see things with their point of view
 
 
 ## 🌐 Socials:
