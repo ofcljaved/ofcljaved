@@ -2,11 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=ofcljaved)
 
-- Currently working on NextJS and React Native
-  
-- Learning Web3
-
-- Want to build something useful
+- Currently reading auth from [https://thecopenhagenbook.com/](https://thecopenhagenbook.com/)
+- Learning web3 from [Solana course](https://solana.com/developers/courses)
 
 
 ## 🌐 Socials:
