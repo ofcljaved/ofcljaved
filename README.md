@@ -6,9 +6,9 @@
 - Learning web3 from [Solana course](https://solana.com/developers/courses)
 
 ## Projects:
-[Me](https://ofcljaved.com)
-[Git Fork](https://gitfork.ofcljaved.com)
-[CashBoard](https://cashboard.ofcljaved.com)
+- <a href="https://ofcljaved.com" target="_blank">Me</a>
+- <a href="https://gitfork.ofcljaved.com" target="_blank">Git Fork</a>
+- <a href="https://cashboard.ofcljaved.com" target="_blank">CashBoard</a>
 
 
 ## 🌐 Socials:
