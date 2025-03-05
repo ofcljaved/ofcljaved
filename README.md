@@ -5,6 +5,11 @@
 - Currently reading auth from [https://thecopenhagenbook.com/](https://thecopenhagenbook.com/)
 - Learning web3 from [Solana course](https://solana.com/developers/courses)
 
+## Projects:
+[Me](https://ofcljaved.com)
+[Git Fork](https://gitfork.ofcljaved.com)
+[CashBoard](https://cashboard.ofcljaved.com)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ofcljaved) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ofcljaved) 
