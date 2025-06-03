@@ -6,7 +6,8 @@
 - Learning web3 from [Solana course](https://solana.com/developers/courses)
 
 ## Projects:
-- <a href="https://ofcljaved.com" target="_blank">Me</a>
+- <a href="https://term.ofcljaved.com" target="_blank">Me</a>
+- <a href="https://dropbox.ofcljaved.com" target="_blank">Dropbox Landing</a>
 - <a href="https://gitfork.ofcljaved.com" target="_blank">Git Fork</a>
 - <a href="https://cashboard.ofcljaved.com" target="_blank">CashBoard</a>
 
